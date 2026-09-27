@@ -1,14 +1,23 @@
 # Customer Behavior Analytics Dashboard
 
 ## Overview
-Power BI dashboard analyzing 350+ e-commerce customers to uncover 
-spend patterns, satisfaction drivers, and retention risk signals.
+An e-commerce business had spend data for 350+ customers across 6 cities — but no clear read on why some customers spent more than others, or which ones were at risk of leaving.
+
+## The Problem
+Leadership wanted to know: Are we rewarding the right customers with our membership tiers? Are our discounts actually working? And which cities deserve more marketing focus?
 
 ## Tools Used
 Power BI, Excel
 
 ## Dataset
-[Brief description + column list]
+This Dataset contains 350+ customer insights their Age, Spend, Membership type, Total Spend, Items Purchased, Average Rating, Discount Applied, 
+Days Since Last Purchase, and Satisfaction Level.
+
+## Dashboard Preview
+![Dashboard](Dashboard.png)
+
+## Findings 
+This single dashboard turned these columns into three business decisions: where to focus retention efforts, whether the tier system is paying off, and whether discounts are building loyalty or just eating margin.
 
 ## Key Insights
 - Gold-tier members drive ~150K in spend — nearly 2x Silver, 3x Bronze
@@ -16,10 +25,3 @@ Power BI, Excel
 - Discount usage split nearly 50/50 — flagged for deeper analysis
 - Female customers account for 58% of total spend
 - Overall average customer rating: 4.02/5
-
-## Dashboard Preview
-![Dashboard](Dashboard.png)
-
-## What I'd Explore Next
-- Cohort analysis on discount users vs non-users to test loyalty impact
-- Churn segmentation using Days Since Last Purchase

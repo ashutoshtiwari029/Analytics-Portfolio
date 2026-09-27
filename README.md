@@ -18,8 +18,7 @@ Power BI, Excel
 - Overall average customer rating: 4.02/5
 
 ## Dashboard Preview
-![Dashboard](<img width="1436" height="797" alt="Dashboard" src="https://github.com/user-attachments/assets/276cee34-976f-42b5-b104-f3b52be1a447" />
-)
+![Dashboard](Dashboard.png)
 
 ## What I'd Explore Next
 - Cohort analysis on discount users vs non-users to test loyalty impact
